@@ -7,6 +7,6 @@ This repository serves as the reference for our code and documents that our team
 - Uses the Raspberry Pi and STM32F4 boards
 - Aligns with the ABET Expectations for a senior project, one with a substantial design
 
-[Watch Smart Plant Caretaker Demo Video Here](smart_plant_caretaker.mp4)
+[Watch Smart Plant Caretaker Demo Video Here](Resources/smart_plant_caretaker.mp4)
 
-![Alt text](Plant_Caretaker_Poster.png)
+![Alt text](Resources/Plant_Caretaker_Poster.png)
