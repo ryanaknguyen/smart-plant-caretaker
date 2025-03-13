@@ -7,4 +7,6 @@ This repository serves as the reference for our code and documents that our team
 - Uses the Raspberry Pi and STM32F4 boards
 - Aligns with the ABET Expectations for a senior project, one with a substantial design
 
-This repo was originally created on Google Drive, but now moved to GitHub for better visibility and keeping our resources in one place.
+[Watch Smart Plant Caretaker Demo Video Here](smart_plant_caretaker.mp4)
+
+![Alt text](Plant_Caretaker_Poster.png)
